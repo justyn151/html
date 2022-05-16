@@ -1,6 +1,17 @@
+* {
+    margin: 10px;
+}
+
 .container-ui {
     background: violet;
     border: 5px solid blue;
-    padding: px;
+    padding: 50px;
+    text-align: center;
+}
+
+.container-default {
+    background-color: blue;
+    border: 5px solid red;
+    padding: 50px;
     text-align: center;
 }
