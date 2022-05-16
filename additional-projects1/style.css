@@ -1,0 +1,9 @@
+* {
+    border: 3px solid lightcoral;
+    display: inline-grid;
+}
+
+.title {
+    color: #13C79B;
+    text-align: center;
+}
