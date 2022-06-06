@@ -3,6 +3,10 @@
     display: inline-grid;
 }
 
+body {
+    border: 10px;
+}
+
 .container-ui {
     background: violet;
     border: 5px solid blue;
